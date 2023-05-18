@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(242, 112, 65);
+}
+
+.pnlCatalogo {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center; 
+  gap: 15px;
+  margin-bottom: 30px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.receita img {
+  margin-bottom: 20px;
+  max-width: 30px;
+  max-height: 30px;
+}
+
+.receita h2 {
+  margin-bottom: 10px;
+  font-size: 24px;
+  text-align: center;
+}
+
+.receita p {
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+.card-img-top {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  max-width: 400px;
+  max-height: 400px;
+  justify-content: center;
+	align-items: center;
+}

@@ -1,0 +1,28 @@
+.container{
+ margin: 0 auto;
+ width: 25%;
+}
+
+.adicionar button{
+  background-color: blue;
+  color: white;
+  font-size: 18px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+}
+
+.algoritmo button{
+  background-color: blue;
+  color: white;
+  font-size: 18px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+}
+
+input{
+  font-size: medium;
+  width: 250px;
+  height: 30px;
+}

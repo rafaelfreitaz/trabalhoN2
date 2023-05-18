@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(242, 112, 65);
+}
+
+.main-footer{
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 30%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  position:fixed
+}
+
+section{
+  text-align: center;
+  margin: 384px auto 384px auto;
+}
+
+.logo-img, h1{
+  display: inline-block;
+}
